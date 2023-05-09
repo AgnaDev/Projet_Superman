@@ -1,6 +1,6 @@
 ### Projet Superman
 ***
-Ceci est un TP réalisé avec du HTML et du CSS pour un site static
+Ceci est un projet de Superman BTS SIO 1J.
 ### Screenshot
 ![cover](./asset/logo_superman.png)
 ***
